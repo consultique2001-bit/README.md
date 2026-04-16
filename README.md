@@ -1,5 +1,3 @@
-# README.md
-
 # Consultique SCF S.p.A.
 
 ## Italy’s Independent Financial Advisory Pioneer
